@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Chirper (Laravel)
+
+A simple microblogging application built with the Laravel framework.
+
+## Features
+* **User Authentication**: Secure login and registration.
+* **Chirps**: Create, Read, Update, and Delete short status updates.
+* **Real-time notifications**: (If you plan to add them later).
+
+## Tech Stack
+* **Framework**: Laravel
+* **Language**: PHP
+* **Database**: MySQL / SQLite
+
+## Setup Instructions
+1. Clone the repo.
+2. Run `composer install`.
+3. Copy `.env.example` to `.env`.
+4. Run `php artisan migrate`.
+5. Run `php artisan serve`.
+>>>>>>> 52332590845ef588dc3cb0035e464de60042cbbb
