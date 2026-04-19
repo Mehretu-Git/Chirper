@@ -18,4 +18,4 @@ A simple microblogging application built with the Laravel framework.
 3. Copy `.env.example` to `.env`.
 4. Run `php artisan migrate`.
 5. Run `php artisan serve`.
->>>>>>> 52332590845ef588dc3cb0035e464de60042cbbb
+
